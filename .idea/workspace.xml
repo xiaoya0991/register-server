@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6f1c5c-2c4f-40b6-92d1-a2f748f00313" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/CanceRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/Applications.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/AbstractRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1520">
+              <caret line="80" column="72" selection-start-line="80" selection-start-column="72" selection-end-line="80" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/ServerManagement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2850">
+              <caret line="150" column="10" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/HeartbeatResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding>
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>服务注册</find>
+      <find>readLock()</find>
+      <find>getDeltaRegistry</find>
+      <find>cance</find>
+      <find>start</find>
+      <find>recentlyChangedQueue</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/ServiceRegistryCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/ServiceRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/DeltaRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/DeltaRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/HeartbeatCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/Applications.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/Applications.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/HeartbeatResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/cluster/PeerReplicator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/cluster/PeersReqlicateBatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/Applications.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/util/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpContextResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpVersion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpContextRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/MediaType.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/CampaignController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterServerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/AbstractRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/HeartbeatRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/CanceRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/HeartbeatCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/RegisterServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/SelfProtectionPolicy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceAliveMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceRegistryCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/ServerManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/software/repository" />
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="register-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="register-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="register-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="ai.houyi:dorado-core:0.0.51" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="937" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="register-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="register-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Applications" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565329339238" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhss.demo.register.server.web" />
+      <recent name="com.zhss.demo.register.server.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RegisterServer">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhss.demo.register.server.RegisterServer" />
+      <module name="register-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhss.demo.register.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhss.demo.register.server.Test" />
+      <module name="register-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhss.demo.register.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RegisterServer" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegisterServer" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6f1c5c-2c4f-40b6-92d1-a2f748f00313" name="Default" comment="" />
+      <created>1543458866062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543458866062</updated>
+      <workItem from="1543458867437" duration="2051000" />
+      <workItem from="1543483526489" duration="3109000" />
+      <workItem from="1543537120399" duration="265000" />
+      <workItem from="1543627350164" duration="389000" />
+      <workItem from="1544960079609" duration="5818000" />
+      <workItem from="1544968943702" duration="220000" />
+      <workItem from="1545396882046" duration="30000" />
+      <workItem from="1545545424502" duration="64000" />
+      <workItem from="1546327471578" duration="10000" />
+      <workItem from="1546962626954" duration="2436000" />
+      <workItem from="1547012420580" duration="1099000" />
+      <workItem from="1547350902013" duration="457000" />
+      <workItem from="1547375127577" duration="454000" />
+      <workItem from="1547872187691" duration="561000" />
+      <workItem from="1547872800767" duration="1585000" />
+      <workItem from="1547899785748" duration="4487000" />
+      <workItem from="1548754841173" duration="80000" />
+      <workItem from="1554790555120" duration="127000" />
+      <workItem from="1554876484221" duration="11000" />
+      <workItem from="1554882057652" duration="2924000" />
+      <workItem from="1554892775039" duration="198000" />
+      <workItem from="1554969772168" duration="403000" />
+      <workItem from="1564891902878" duration="675000" />
+      <workItem from="1564985504484" duration="111000" />
+      <workItem from="1565013871562" duration="6990000" />
+      <workItem from="1565024991742" duration="7944000" />
+      <workItem from="1565071024132" duration="414000" />
+      <workItem from="1565184263944" duration="5629000" />
+      <workItem from="1565221776501" duration="173000" />
+      <workItem from="1565242454327" duration="16000" />
+      <workItem from="1565247680215" duration="3039000" />
+      <workItem from="1565257058407" duration="633000" />
+      <workItem from="1565263099746" duration="3023000" />
+      <workItem from="1565267080425" duration="278000" />
+      <workItem from="1565277942101" duration="3609000" />
+      <workItem from="1565284473699" duration="4989000" />
+      <workItem from="1565395881084" duration="5771000" />
+      <workItem from="1565488614619" duration="178000" />
+      <workItem from="1565488796182" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70263000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="937" extended-state="0" />
+    <layout>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.22188264" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="2" />
+      <window_info anchor="bottom" id="Tail" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="5" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.48292682" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.59581155" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32670158" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Redis Servers" order="7" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.3294621" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.21393643" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="2" />
+      <window_info anchor="bottom" id="Tail" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.80783355" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.5109948" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32670158" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Redis Servers" order="7" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.3294621" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4218">
+          <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10241">
+          <caret line="582" column="17" selection-start-line="582" selection-start-column="17" selection-end-line="582" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/RegisterResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/ServiceRegistryCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/ServiceRegistry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/DeltaRegistry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/RegisterRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/HeartbeatResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/HeartbeatRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/HeartbeatCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/Applications.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/AbstractRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/CancelRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/HeartbeatRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/HeartbeatResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/RegisterServerController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/RegisterRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/web/RegisterResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/Applications.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpContextResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpContextRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/MediaType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpVersion.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/util/HttpUtils.java" />
+    <entry file="jar://$USER_HOME$/software/repository/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/handler/codec/http/HttpVersion.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/repository/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11267">
+          <caret line="656" column="21" selection-start-line="656" selection-start-column="21" selection-end-line="656" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/repository/ai/houyi/dorado-core/0.0.51/dorado-core-0.0.51.jar!/ai/houyi/dorado/rest/server/DoradoServerBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding>
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/HeartbeatRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/repository/ai/houyi/dorado-core/0.0.51/dorado-core-0.0.51.jar!/ai/houyi/dorado/rest/router/UriRoutingController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/RegisterServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/cluster/PeerReplicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/cluster/PeersReqlicateBatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/SelfProtectionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/DeltaRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceAliveMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="84" column="50" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+          <folding>
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceRegistryCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="96" column="41" lean-forward="true" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
+          <folding>
+            <element signature="e#4911#4912#0" expanded="true" />
+            <element signature="e#4942#4943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/ServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3189#3190#0" expanded="true" />
+            <element signature="e#3220#3221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/core/HeartbeatCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/CanceRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/AbstractRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/http/HttpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="72" selection-start-line="80" selection-start-column="72" selection-end-line="80" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/ServerManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="150" column="10" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/RegisterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/HeartbeatResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhss/demo/register/server/web/Applications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>register-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
